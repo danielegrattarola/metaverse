@@ -31,3 +31,5 @@ exclude:
   - package.json
   - spec
   - tmp
+
+theme: jekyll-theme-cayman
