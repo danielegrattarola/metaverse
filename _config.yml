@@ -1,4 +1,5 @@
 title: metaverse
+baseurl: /metaverse
 description: 
 gems:
   - jekyll-sitemap

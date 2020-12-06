@@ -5,7 +5,7 @@ image: /images/metaverse/sudo_rm_-r_self.png
 ---
 
 <div class="image">
-    <img src="/images/metaverse/sudo_rm_-r_self.png"/>
+    <img src="/metaverse/images/sudo_rm_-r_self.png"/>
 </div>
 
 <div class="text">

@@ -5,5 +5,9 @@ image: /images/metaverse/find_me.png
 ---
 
 <div class="image">
-    <img src="/images/find_me.png"/>
+    <img src="/metaverse/images/find_me.png"/>
+</div>
+
+<div class="text">
+    See me, feel me, touch me, heal me
 </div>

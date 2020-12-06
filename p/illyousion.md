@@ -5,7 +5,7 @@ image: /images/metaverse/illyousion.jpg
 ---
 
 <div class="image">
-    <img src="/images/illyousion.jpg"/>
+    <img src="/metaverse/images/illyousion.jpg"/>
 </div>
 
 <div class="text">

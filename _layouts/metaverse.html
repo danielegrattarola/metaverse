@@ -2,9 +2,9 @@
 <html class="no-js" lang="en">
    
 <head>
-  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="{{site.baseurl}}/css/base.css">
   {% for css_name in page.extra_css %}
-    <link rel="stylesheet" href="{{ css_name }}">
+    <link rel="stylesheet" href="{{site.baseurl}}/{{ css_name }}">
 	{% endfor %}
   {% seo %}
 </head>
@@ -15,7 +15,7 @@
       <p class="title">{{ page.title }}</p>
 		  {{ page.content }}
       <br>
-      <a href="/">back</a>
+      <a href="{{site.baseurl}}/">back</a>
     </div>
 </body>
 

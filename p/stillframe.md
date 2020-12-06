@@ -5,7 +5,7 @@ image: /images/metaverse/stillframe.jpg
 ---
 
 <div class="image">
-    <img src="/images/stillframe.jpg"/>
+    <img src="/metaverse/images/stillframe.jpg"/>
 </div>
 
 <div class="text">
